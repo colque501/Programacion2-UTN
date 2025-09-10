@@ -5,9 +5,10 @@
 package tp3.introduccion_poo;
 
 /**
- *
- * @author c.fchia
- */
+*
+* @author Brian
+* 
+*/
 public class Mascota {
 
     String nombre;
